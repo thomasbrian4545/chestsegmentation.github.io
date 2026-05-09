@@ -1,10 +1,10 @@
 // =========================================
 // URL API untuk proses prediksi AI
 // =========================================
-const url = "";
+const url = "https://predict-69fee9fcb990c8996f74-dproatj77a-et.a.run.app/predict";
 
 // API Key untuk autentikasi
-const apiKey = "";
+const apiKey = "ul_56866a2f711cfacf919849cd158f48fab82e2af9";
 
 
 // =========================================
